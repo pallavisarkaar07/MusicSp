@@ -1,21 +1,4 @@
-| Command | Description |
-| :--- | :--- |
-| `/pause` | Temporarily pause current track playback. |
-| `/resume` | Resume playback from paused state. |
-| `/skip` | Skip current track and play next in queue. |
-| `/end` or `/stop` | Stop playback and clear the active queue. |
-| `/mute` | Mute assistant in the group voice chat. |
-| `/unmute` | Unmute assistant in the group voice chat. |
-| `/seek <seconds>` | Jump forward or backward in active track. |
-| `/speed <0.5x - 2.0x>` | Adjust stream playback speed. |
-| `/loop <1-10 / disable>` | Repeat current track or active queue. |
-| `/shuffle` | Randomize the order of queued tracks. |
 
-</details>
-
-<details>
-<summary><b>👑 𝑺𝒖𝒅𝒐 & 𝑶𝒘𝒏𝒆𝒓 𝑴𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 (Click to Expand)</b></summary>
-<br>
 
 | Command | Description |
 | :--- | :--- |
