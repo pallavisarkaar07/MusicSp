@@ -3,11 +3,11 @@
 ### 🟣 𝑶𝒏𝒆-𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒐𝒌𝒖 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/DevloperSP/MusicSp">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/pallavisarkaar07/MusicSp">
     <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-7928CA?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku Badge">
   </a>
   <br><br>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/DevloperSP/MusicSp">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/pallavisarkaar07/MusicSp">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku Button">
   </a>
 </p>
