@@ -84,10 +84,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://raw.githubusercontent.com/DevloperSP/MusicSp/main/.assets/sunset_mountain.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/d6b8j1.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://raw.githubusercontent.com/DevloperSP/MusicSp/main/.assets/starry_night.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/0rm53h.jpg"
 )
 PLAYLIST_IMG_URL = "https://raw.githubusercontent.com/DevloperSP/MusicSp/main/.assets/starry_night.jpg"
 STATS_IMG_URL = "https://raw.githubusercontent.com/DevloperSP/MusicSp/main/.assets/sunset_mountain.jpg"
