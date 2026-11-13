@@ -4,7 +4,7 @@
 
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
 
-    "logo": "https://raw.githubusercontent.com/DevloperSP/MusicSp/main/.assets/logo.jpg",
+    "logo": "https://raw.githubusercontent.com/pallavisarkaar07/MusicSp/main/.assets/logo.jpg",
 
     "keywords": [
 
@@ -114,10 +114,23 @@
 
         "required": true
 
-      }
-
     },
-
+    "SHRUTI_API_URL": {
+        
+      "description": "Your APISPARROW URL",
+        
+      "value": "https://apisparrow.site",
+        
+      "required": true
+    },
+    "SPARROW_API_KEY": {
+        
+      "description": "Get API key from Telegram bot @SpYtAPIBot",
+        
+      "value": "",
+        
+      "required": true
+    }
     "buildpacks": [
 
           {
