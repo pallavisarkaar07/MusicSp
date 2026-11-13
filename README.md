@@ -1,12 +1,3 @@
-<p align="center">
-  <img src=".assets/hero_banner.svg" width="100%" height="380" alt="MusicSp Animated Neon Audio Engine">
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&lines=MusicSp+Repo+—+Lightning-Fast+Telegram+Music+Streaming!;Ultra-Low+Latency+Audio+%26+HD+Video+Voice+Chat+Engine!;Powered+by+Kurigram+%26+PyTgCalls+•+Developer+Sparrow+Core!">
-</div>
-
----
 
 <p align="center">
   <a href="https://github.com/DevloperSP/MusicSp/stargazers"><img src="https://img.shields.io/github/stars/DevloperSP/MusicSp?style=for-the-badge&color=2563EB" alt="GitHub Stars"></a>
