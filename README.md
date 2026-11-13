@@ -1,18 +1,3 @@
-
-
-| Command | Description |
-| :--- | :--- |
-| `/broadcast <text>` | Broadcast an announcement to all served chats. |
-| `/gban <user_id>` | Global ban malicious users across all bot chats. |
-| `/ungban <user_id>` | Remove global ban from a user ID. |
-| `/restart` | Restart bot and assistant sessions cleanly. |
-| `/update` | Pull and merge latest updates from Git upstream. |
-| `/logs` | Retrieve recent execution error and activity logs. |
-
-</details>
-
----
-
 ## 🚀 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑴𝒆𝒕𝒉𝒐𝒅𝒔
 
 ### 🟣 𝑶𝒏𝒆-𝑪𝒍𝒊𝒄𝒌 𝑯𝒆𝒓𝒐𝒌𝒖 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
