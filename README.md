@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/DevloperSP/MusicSp/stargazers"><img src="https://img.shields.io/github/stars/DevloperSP/MusicSp?style=for-the-badge&color=2563EB" alt="GitHub Stars"></a>
-  <a href="https://github.com/DevloperSP/MusicSp/network/members"><img src="https://img.shields.io/github/forks/DevloperSP/MusicSp?style=for-the-badge&color=3B82F6" alt="GitHub Forks"></a>
-  <a href="https://github.com/DevloperSP/MusicSp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/DevloperSP/MusicSp?style=for-the-badge&color=10B981" alt="License"></a>
+  <a href="https://github.com/pallavisarkaar07/MusicSp/network/members"><img src="https://img.shields.io/github/forks/DevloperSP/MusicSp?style=for-the-badge&color=3B82F6" alt="GitHub Forks"></a>
+  <a href="https://github.com/pallavisarkaar07/MusicSp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pallavisarkaar07/MusicSp?style=for-the-badge&color=10B981" alt="License"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10%20%7C%203.12-F59E0B?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://t.me/Mecobots"><img src="https://img.shields.io/badge/Telegram-Community-06B6D4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Community"></a>
 </p>
